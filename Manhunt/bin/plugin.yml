@@ -1,0 +1,10 @@
+main: me.WesGriffin.Manhunt.Main.Main
+name: MinecraftManhunt
+author: Wes Griffin
+version: 1
+api-version: 1.14
+commands:
+   Manhunt:
+
+      
+  
